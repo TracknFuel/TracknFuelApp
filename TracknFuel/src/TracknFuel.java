@@ -4,6 +4,7 @@ public class TracknFuel {
         System.out.print("Hellow 19");
         System.out.println("\nApd students");
         System.out.print("\nGroup 19");
+        System.out.print("\nThank you");
     }
     
 }
